@@ -31,8 +31,8 @@ Then add to the "MENTION" object in config.json (to only auto-ping that user):\
 Example:\
 `<@658346535087636505>`.
 ### Getting a role ID
-Simply right click "Copy ID" while hovering over a role.
-![-](https://cdn.discordapp.com/attachments/721749508077125684/734734866603573248/unknown.png)
+Simply right click "Copy ID" while hovering over a role.\
+![-](https://cdn.discordapp.com/attachments/721749508077125684/734734866603573248/unknown.png)\
 Then add to the "MENTION" object in config.json (to only auto-ping that role):\
 `<@&MY_ROLE_ID>`\
 Example:\
