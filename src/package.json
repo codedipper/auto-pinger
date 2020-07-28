@@ -1,0 +1,14 @@
+{
+  "name": "pinger-bot-slave",
+  "version": "2.0.0",
+  "description": "Auto-Pinger Slave.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reverse",
+  "dependencies": {
+    "eris": "^0.13.2"
+  },
+  "license": "MIT"
+}
