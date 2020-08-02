@@ -1,0 +1,19 @@
+{
+  "name": "pinger-bot-slave",
+  "version": "2.1.0",
+  "description": "Auto-Pinger Slave.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reverse",
+  "dependencies": {
+    "eris": "^0.13.2",
+    "opusscript": "^0.0.7",
+    "tweetnacl": "^1.0.3",
+    "ws": "^7.3.1"
+  },
+  "repository": "codedipper/auto-pinger",
+  "license": "MIT"
+}
