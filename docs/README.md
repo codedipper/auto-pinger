@@ -25,14 +25,14 @@ Go to "Appearance", scroll down, and turn on "Developer Mode".
 If you need more help, go to [this page!](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)
 ### Getting a user ID
 Now, simply right click a user then click "Copy ID".
-![-](https://cdn.discordapp.com/attachments/721749508077125684/734732659363676270/unknown.png)
+![-](https://cdn.discordapp.com/attachments/721749508077125684/734732659363676270/unknown.png)\
 Then add to the "MENTION" object in config.json (to only auto-ping that user):\
 `<@MY USER ID>`\
 Example:\
 `<@658346535087636505>`.
 ### Getting a role ID
 Simply right click "Copy ID" while hovering over a role.
-![-](https://cdn.discordapp.com/attachments/721749508077125684/734734866603573248/unknown.png)
+![-](https://cdn.discordapp.com/attachments/721749508077125684/734734866603573248/unknown.png)\
 Then add to the "MENTION" object in config.json (to only auto-ping that role):\
 `<@&MY_ROLE_ID>`\
 Example:\
