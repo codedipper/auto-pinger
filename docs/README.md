@@ -2,7 +2,7 @@
 ## Installation
 Open the `src` folder and fill out the `config.json` file.
 ### For All Platforms:
-Install [node.js](https://nodejs.org/en/download/) with a minimum version of `12.0.0`.
+Install [node.js](https://nodejs.org/en/download/) with a minimum version of `8.0.0`.
 ### For Windows:
 Run `installer.bat` and then `start.bat`.
 ### For Mac & Linux:
