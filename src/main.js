@@ -2,7 +2,7 @@ const { TOKEN } = require("./config.json");
 const Eris = require("eris");
 const Client = new Eris(TOKEN, { allowedMentions: { everyone: true }});
 
-Client.on("ready", () =>{
+Client.once("ready", () =>{
     let readyFire = require("./events/ready.js");
     readyFire.run(Client);
 });
